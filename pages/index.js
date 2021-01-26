@@ -30,7 +30,7 @@ export const getStaticProps = async () => {
       title: "My Amazing Startup",
       metaContent: "Amazing SEO poetry",
       copy:
-        "I'm in the business of making people smile. That's all I'm here for.",
+        "I'm in the business of making people smile. That's all I'm here for. jee asdasdadjee!!!",
     },
   };
 };
