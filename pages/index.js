@@ -27,7 +27,7 @@ export const getStaticProps = async () => {
 
   return {
     props: {
-      title: "My Amazing Startup",
+      title: "My Amazing NEXT.JS testisivusto",
       metaContent: "Amazing SEO poetry",
       copy:
         "I'm in the business of making people smile. That's all I'm here for. jee asdasdadjee!!!",
